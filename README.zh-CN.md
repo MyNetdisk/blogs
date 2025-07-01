@@ -10,10 +10,10 @@
 
 React Blog System 是一个全栈博客系统，采用了现代化的前端技术栈，包括 React.js 和 Next.js，以及后端技术栈，包括 Egg.js 和 MySQL 数据库。这个仓库包含四个子仓库，每个子仓库负责不同的任务：
 
-1. **react-blog-admin**: 博客后台管理网站，用于管理博客内容和配置。
-2. **react-blog-database**: 博客项目数据库，存储博客文章和相关数据。
-3. **react-blog-server**: 博客 web 服务器，提供 API 和服务端渲染。
-4. **react-blog-web**: 博客网站，展示博客文章和页面。
+1. **blog-admin**: 博客后台管理网站，用于管理博客内容和配置。
+2. **blog-database**: 博客项目数据库，存储博客文章和相关数据。
+3. **blog-server**: 博客 web 服务器，提供 API 和服务端渲染。
+4. **blog-web**: 博客网站，展示博客文章和页面。
 
 ## 访问链接
 
@@ -38,10 +38,10 @@ React Blog System 是一个全栈博客系统，采用了现代化的前端技�
 
 ## 子仓库
 
-- [react-blog-admin](https://github.com/MyNetdisk/react-blog-admin): 博客后台管理网站
-- [react-blog-database](https://github.com/MyNetdisk/react-blog-database): 博客项目数据库
-- [react-blog-server](https://github.com/MyNetdisk/react-blog-server): 博客 web 服务器
-- [react-blog-web](https://github.com/MyNetdisk/react-blog-web): 博客网站
+- [blog-admin](https://github.com/MyNetdisk/blog-admin): 博客后台管理网站
+- [blog-database](https://github.com/MyNetdisk/blog-database): 博客项目数据库
+- [blog-server](https://github.com/MyNetdisk/blog-server): 博客 web 服务器
+- [blog-web](https://github.com/MyNetdisk/blog-web): 博客网站
 
 ## 贡献
 

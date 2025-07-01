@@ -10,10 +10,10 @@
 
 The React Blog System is a full-stack blog system that utilizes modern front-end technologies, including React.js and Next.js, along with back-end technologies such as Egg.js and MySQL database. This repository contains four sub-repositories, each responsible for different tasks:
 
-1. **react-blog-admin**: The admin panel for managing blog content and configurations.
-2. **react-blog-database**: The project database storing blog articles and related data.
-3. **react-blog-server**: The blog web server providing APIs and server-side rendering.
-4. **react-blog-web**: The blog website showcasing blog articles and pages.
+1. **blog-admin**: The admin panel for managing blog content and configurations.
+2. **blog-database**: The project database storing blog articles and related data.
+3. **blog-server**: The blog web server providing APIs and server-side rendering.
+4. **blog-web**: The blog website showcasing blog articles and pages.
 
 ## Access Links
 
@@ -38,10 +38,10 @@ This project is released under the MIT open-source license, permitting free usag
 
 ## Sub-Repositories
 
-- [react-blog-admin](https://github.com/MyNetdisk/react-blog-admin): The admin panel for managing blog content.
-- [react-blog-database](https://github.com/MyNetdisk/react-blog-database): The project database storing blog articles.
-- [react-blog-server](https://github.com/MyNetdisk/react-blog-server): The blog web server.
-- [react-blog-web](https://github.com/MyNetdisk/react-blog-web): The blog website.
+- [blog-admin](https://github.com/MyNetdisk/blog-admin): The admin panel for managing blog content.
+- [blog-database](https://github.com/MyNetdisk/blog-database): The project database storing blog articles.
+- [blog-server](https://github.com/MyNetdisk/blog-server): The blog web server.
+- [blog-web](https://github.com/MyNetdisk/blog-web): The blog website.
 
 ## Contribution
 
